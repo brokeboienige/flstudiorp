@@ -14,7 +14,7 @@ If you have any problem you can always open a [issue](https://github.com/brokebo
 ## Notes
 Actually it works just for the `FL64.exe`. I'm currently working on the 32 bit version.
 ## Installing
-- Download the most recent build [here]((https://github.com/brokeboienige/flstudiorp/releases/latest) or build it yourself as described on [how to build](#building)
+- Download the most recent build [here](https://github.com/brokeboienige/flstudiorp/releases/latest) or build it yourself as described on [how to build](#building)
 - Grab the `flstudiorp.exe` file and copy it to somewhere you like.
 - Right-click it and create a shortcut. Press Win+R and type `shell:startup`.
 - Copy the shortcut to the folder that opened and thats it, you are all set!
