@@ -9,7 +9,7 @@ If you have any problem you can always open a [issue](https://github.com/brokebo
 | Show project name | ✅  |
 | Show project BPM | ✅  |
 | Show project timestamp | ✅  |
-| Show master waveform | ✅  |
+| Show master waveform | ❌  | (removed due to update)
 
 ## Notes
 - Actually it works just for the `FL64.exe`. I'm currently working on the 32 bit version.
